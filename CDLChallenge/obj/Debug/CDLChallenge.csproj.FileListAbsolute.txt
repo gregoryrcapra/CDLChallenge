@@ -1,0 +1,10 @@
+c:\users\gcapr\onedrive\documents\visual studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\CDLChallenge.exe.config
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\CDLChallenge.exe.config
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\CDLChallenge.exe
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\CDLChallenge.pdb
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\obj\Debug\CDLChallenge.csprojResolveAssemblyReference.cache
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\obj\Debug\CDLChallenge.exe
+C:\Users\gcapr\Documents\Visual Studio 2015\Projects\CDLChallenge\CDLChallenge\obj\Debug\CDLChallenge.pdb
